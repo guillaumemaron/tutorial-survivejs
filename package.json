@@ -1,0 +1,24 @@
+{
+  "name": "tutorial-survivejs",
+  "version": "1.0.0",
+  "description": "kanban project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillaumemaron/tutorial-survivejs.git"
+  },
+  "keywords": [
+    "tutorial",
+    "webpack",
+    "react"
+  ],
+  "author": "Guillaume Maron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillaumemaron/tutorial-survivejs/issues"
+  },
+  "homepage": "https://github.com/guillaumemaron/tutorial-survivejs#readme"
+}
